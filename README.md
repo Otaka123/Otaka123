@@ -19,27 +19,18 @@
   - **T-SQl** to Writing Complex Queries .
   - **Using ADO.NET** to provides consistent access to data.
   - **make CRUD operation in data**.
-  - **’شسs
   - **Windows Forms:** Built a user-friendly interface for easy management.
   - **Make User controls**.
   - 
-  - س
-  - يsd
-  - ع 
-
 ---
 
 ## 🌱 What I'm Working On:
 - Developing small projects using **ASP.Net**.
 - Building RESTful APIs to strengthen backend expertise.
 - Exploring best practices in **Git** and **GitHub** for version control.
-
 ---
-
 ## 📫 How to Reach Me:
 - **LinkedIn:** [(www.linkedin.com/in/marwan-osama-ebrahim)]
-
-
 - **Email:** [marwanosamaebrahim@gmail.com]
 
 ---
