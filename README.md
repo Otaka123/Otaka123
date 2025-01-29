@@ -1,8 +1,8 @@
-# 👋 Hello, I'm [Marwanosama]!
+# 👋 Hello, I'm [Marwan Osama]!
 
-🌟 **Aspiring Backend Developer** with a passion for building scalable and efficient systems.  
-📚 Skilled in **ASP.Net**, **C#**, **SQL Server**, **RESTful APIs**, and **Entity Framework**.  
-💻 Currently learning **JavaScript**, **HTML**, and **CSS** to enhance my Full-Stack development skills.  
+🌟 **Aspiring ASP.Net Developer** with a passion for building scalable and efficient systems.  
+📚 Skilled in **ASP.Net core**, **Web API**,**MVC**,**Razor Pages** ,**C#**, **SQL Server**, **RESTful APIs**, and **Entity Framework**,**ADO.net**.  
+💻 Currently learning **JavaScript** to enhance my Full-Stack development skills.  
 
 ---
 
@@ -43,7 +43,7 @@
 
 ## 💡 Tech Stack:
 - **Languages:** C#,C++,  HTML, CSS ,JavaScript (learning).
-- **Frameworks & Tools:** ASP.NET Core, Entity Framework, REST APIs.
+- **Frameworks & Tools:** ASP.NET Core,MVC,Web API,LINQ,Razor pages,Boot strap,postman,Swagger,Entity Framework, REST APIs.
 - **Databases:** SQL Server, T-SQL .
 - **Version Control:** Git, GitHub.
 
