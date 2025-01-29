@@ -2,7 +2,6 @@
 
 🌟 **Aspiring ASP.Net Developer** with a passion for building scalable and efficient systems.  
 📚 Skilled in **ASP.Net core**, **Web API**,**MVC**,**Razor Pages** ,**C#**, **SQL Server**, **RESTful APIs**, and **Entity Framework**,**ADO.net**.  
-💻 Currently learning **JavaScript** to enhance my Full-Stack development skills.  
 
 ---
 
